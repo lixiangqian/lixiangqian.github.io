@@ -43,28 +43,26 @@
     }
     </script>
   </head>
-  <body onload="setInterval(setTimeSpan,1000);">
+   <body onLoad="setInterval(setTimeSpan,1000);">
     <div id="container">
       <div id="main" role="main">
         <header>
-          <div id="header">
-            {% if page.title %}
-              <h1>{{ page.title }}</h1>
-            {% else %}
-              <h1>{{ site.name }}</h1>
-            {% endif %}
-          </div></div>
+        <h1>{{ page.title }}</h1>
         </header>
         <nav>
-          <span><a title="Home Page" class="" href="/">Home</a></span>
-          <span><a title="categories" class="" href="/categories.html">Categories</a></span>
-          <span><a title="tags" class="" href="/tags.html">Tags</a></span>
-          <span><a title="subscribe by feed" class="" href="/atom.xml">Subscribe</a></span>
-          <span><a title="about" class="" href="/about.html">About</a></span>
+        <span><a title="home page" class="" href="/">Home</a></span>
+        <span><a title="guestbook" class="" href="/guestbook/">Guestbook</a></span>
+        <span><a title="forum" class="" href="http://www.fungenomics.com/" target="_blank">Forum</a></span>
+        <span><a title="categories" class="" href="/categories/">Categories</a></span>
+        <span><a title="tags" class="" href="/tags/">Tags</a></span>
+        <span><a title="links" class="" href="/links/">Links</a></span>
+        <span><a title="subscribe by feed" class="" href="/feed/">Subscribe</a></span>
+        <span><a title="about" class="" href="/about/">About</a></span>
         </nav>
-        <div id="content">
-          {{ content }}
-        </div>
+        <article class="content">
+        {{ content }}
+        </article>
+      </div>
         <footer>
           <p>
             <small>

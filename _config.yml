@@ -1,0 +1,8 @@
+markdown: rdiscount
+highlighter: pygments
+permalink: /:title.html
+name: "PlanetBlue"
+author: "PlanetBlue"
+atom-baseurl: "http://lixiangqian.com"
+disqus: "sylviayoung"
+favicon: /favicon.ico

@@ -107,7 +107,7 @@ margin: 1em 0em;
 padding-left: 1.5em;
 }
 
-blockquote p {
+blockquote {
 display: block;
 text-align: justify;
 border-left: 4px solid #BDBDBD;

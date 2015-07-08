@@ -13,12 +13,3 @@ categories: 编程
 
 >git remote origin -set url git@github.com:username/username.github.io.git
 
-{% highlight html %}
-<nav>
-    <span><a title="Home Page" class="" href="/">Home</a></span>
-    <span><a title="categories" class="" href="/categories.html">Categories</a></span>
-    <span><a title="tags" class="" href="/tags.html">Tags</a></span>
-    <span><a title="subscribe by feed" class="" href="/atom.xml">Subscribe</a></span>
-    <span><a title="about" class="" href="/about.html">About</a></span>
-</nav>
-{% endhighlight %}

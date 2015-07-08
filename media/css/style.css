@@ -9,6 +9,15 @@
 	src: url('../fonts/TitilliumText22L003-webfont.eot');
 	src: url('../fonts/TitilliumText22L003-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/TitilliumText22L003-webfont.woff') format('woff'), url('../fonts/TitilliumText22L003-webfont.ttf') format('truetype'), url('../fonts/TitilliumText22L003-webfont.svg#TitilliumText22LRegular') format('svg')
 }
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 12px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
 
 html,
 body,

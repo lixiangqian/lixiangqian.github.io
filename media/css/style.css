@@ -198,13 +198,13 @@ font-family: "Cuprum", "TitilliumText22LRegular", "Hiragino Sans GB", "Microsoft
 font-size: 1em;
 color: #333;
 }
-/*pre, code {
+pre, code {
 font-family: Menlo, "Andale Mono", Consolas, "Courier New", Monaco, monospace;
 font-size: 13px;
 }
 code {
 background-color: #D0D0D0;
-}*/
+}
 embed, object, iframe {
 display: block;
 margin: 4px auto;

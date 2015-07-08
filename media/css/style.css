@@ -67,6 +67,7 @@ color: #1a4556;
 }
 li {
 padding: .2em 0;
+font-size: 14px;
 }
 ol, ul {
 list-style-position: inside;

@@ -104,12 +104,12 @@ border-left: 4px solid #eeeeee;
 
 blockquote {
 margin: 1em 0em;
-padding-left: 1.5em;
+padding-left: 1em;
 }
 
 blockquote {
 display: block;
-text-align: justify;
+text-align: inherit;
 border-left: 4px solid #BDBDBD;
 background-color: #F2F2F2;
 border-bottom-right-radius: 5px;

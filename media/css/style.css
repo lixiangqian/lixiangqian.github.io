@@ -108,8 +108,13 @@ padding-left: 1.5em;
 }
 
 blockquote p {
-margin: 0;
-padding: .5em 0;
+display: block;
+text-align: justify;
+border-left: 4px solid #BDBDBD;
+background-color: #F2F2F2;
+border-bottom-right-radius: 5px;
+border-top-right-radius: 5px;
+word-wrap: break-word;
 }
 
 #container {

@@ -12,5 +12,3 @@ categories: 编程
 >git remote -v
 <br>
 >git remote origin -set url git@github.com:username/username.github.io.gittesttestetstetetetetetetetete
-
-> <p>git remote origin -set url git@github.com:username/username.github.io.</p><p>gittesttestetstetetetetetetetete</p>

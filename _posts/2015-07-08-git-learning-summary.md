@@ -15,6 +15,8 @@ categories: 编程
 
 2. 2: "git push"时提示"waring: push.default is unset;"
 >git config --global push.default.matching //未指定情况下推送所有分支<br>
+
 改成：
+
 >git config --global push.default.simple//未指定情况下推送当前分支
 

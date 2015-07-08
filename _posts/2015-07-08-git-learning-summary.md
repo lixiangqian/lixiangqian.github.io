@@ -23,7 +23,7 @@ categories: 编程
 </nav>
 ```
 
-{% highight html %}
+{% highlight html %}
 <nav>
     <span><a title="Home Page" class="" href="/">Home</a></span>
     <span><a title="categories" class="" href="/categories.html">Categories</a></span>

@@ -23,7 +23,7 @@ categories: 编程
 </nav>
 ```
 
-{% highight html% }
+{% highight html %}
 <nav>
     <span><a title="Home Page" class="" href="/">Home</a></span>
     <span><a title="categories" class="" href="/categories.html">Categories</a></span>
@@ -31,4 +31,4 @@ categories: 编程
     <span><a title="subscribe by feed" class="" href="/atom.xml">Subscribe</a></span>
     <span><a title="about" class="" href="/about.html">About</a></span>
 </nav>
-{% ednhighlight %}
+{% endhighlight %}

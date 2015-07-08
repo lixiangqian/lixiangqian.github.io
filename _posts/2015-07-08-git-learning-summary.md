@@ -1,5 +1,5 @@
 ---
-title: 学习Git的小心思小总结
+title: Comments on learning Git
 layout: post
 tag:
     - Git

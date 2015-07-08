@@ -8,7 +8,7 @@ tag:
 categories: 编程
 ---
 
-1. 每次“Git Push”都提示要输入用户名和密码 [参考](http://example.com/ "Changing a remote's URL")
+1. 每次“Git Push”都提示要输入用户名和密码 [(参考)](https://help.github.com/articles/changing-a-remote-s-url/ "Changing a remote's URL")
 >git remote -v
 
 >git remote origin -set url git@github.com:username/username.github.io.git

@@ -213,22 +213,22 @@ margin: 4px auto;
 font-size: 12px;
 line-height: 1.6;
 }
-footer {
+#footer {
 display: block;
 border-top: 1px dashed #CCC;
 }
-footer small {
+.small {
 font-size: 15px;
 color: #999;
 }
-footer a {
+#footer a {
 margin: 1px;
 border: 1px solid rgba(1, 1, 1, 0);
 border-bottom: 1px dashed #BBB;
 color: #B9221F;
 text-decoration: none;
 }
-footer a:hover {
+#footer a:hover {
 color: rgba(250, 250, 250, 1.0) !important;
 -webkit-border-radius: 4px;
 border: 1px solid rgba(0, 0, 0, 0.45);

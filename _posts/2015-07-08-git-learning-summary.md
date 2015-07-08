@@ -12,4 +12,4 @@ categories: 编程
 {%highlight%}
 git remote -v //查看当前远端分支
 git remote origin -set url git@github.com:username/username.github.io//设置远端分支为git@github.com形式，取代原来的https://github.com
-{%endhighlight}
+{%endhighlight%}

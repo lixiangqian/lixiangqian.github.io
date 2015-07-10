@@ -116,25 +116,23 @@ pre code {
 }
 
 blockquote {
-	display: block;
-	text-align: justify;
-	border-left: 4px solid #eeeeee
+
+}
+
+blockquote {
+
 }
 
 blockquote {
 	margin: .5em 0em;
-	padding-left: 1em
-}
-
-blockquote {
+	padding-left: 1em;
 	display: block;
 	text-align: inherit;
-	border-left: 4px solid #BDBDBD;
 	color: #FFF;
 	background-color: #2b2b2b;
-	border-bottom-right-radius: 5px;
-	border-top-right-radius: 5px;
-	word-wrap: break-word
+	border-radius: 5px;
+	word-wrap: break-word;
+	-webkit-border-radius:5px;
 }
 
 #container {

@@ -16,7 +16,7 @@ end
 
 desc 'Generate css'
 task :scss do
-  `scss media/css/style.scss media/css/style.css`
+  `scss assets/css/style.scss assets/css/style.css`
 end
 
 desc 'Start server'
@@ -53,7 +53,7 @@ title: #{title}
 layout: post
 guid: urn:uuid:#{uuid}
 tags:
-  - 
+  -
 ---
 
 

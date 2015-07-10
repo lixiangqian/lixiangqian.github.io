@@ -131,7 +131,8 @@ blockquote {
 	display: block;
 	text-align: inherit;
 	border-left: 4px solid #BDBDBD;
-	background-color: #F2F2F2;
+	color: #FFF;
+	background-color: #2B2B2B;
 	border-bottom-right-radius: 5px;
 	border-top-right-radius: 5px;
 	word-wrap: break-word

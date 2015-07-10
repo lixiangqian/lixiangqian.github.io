@@ -377,17 +377,21 @@ iframe {
 #go-top i {
 	color: #777
 }
-.tossing {
+.slideUp {
 	z-index: 5000;
 	position: fixed;
 	right: 1%;
 	bottom: 1%;
 	font-size: 36px;
 	opacity: 0.7
-  	animation-name: tossing;
-  	-webkit-animation-name: tossing;
-  	animation-duration: 2.5s;
-  	-webkit-animation-duration: 2.5s;
-  	animation-iteration-count: infinite;
-  	-webkit-animation-iteration-count: infinite;
+	animation-name: hatch;
+  	-webkit-animation-name: hatch;
+	animation-duration: 2s;
+  	-webkit-animation-duration: 2s;
+  	animation-timing-function: ease-in-out;
+  	-webkit-animation-timing-function: ease-in-out;
+  	transform-origin: 50% 100%;
+  	-ms-transform-origin: 50% 100%;
+  	-webkit-transform-origin: 50% 100%;
+  	visibility: visible !important;
 }

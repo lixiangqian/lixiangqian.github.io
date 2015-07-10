@@ -9,15 +9,15 @@
 	src: url('../fonts/TitilliumText22L003-webfont.eot');
 	src: url('../fonts/TitilliumText22L003-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/TitilliumText22L003-webfont.woff') format('woff'), url('../fonts/TitilliumText22L003-webfont.ttf') format('truetype'), url('../fonts/TitilliumText22L003-webfont.svg#TitilliumText22LRegular') format('svg')
 }
-.fa {
-    display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
-    font-size: inherit;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale
-}
 
+.fa {
+	display: inline-block;
+	font: normal normal normal 14px/1 FontAwesome;
+	font-size: inherit;
+	text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale
+}
 
 html,
 body,
@@ -68,7 +68,7 @@ body {
 	font-family: "Galdeano", "TitilliumText22LRegular", "Hiragino Sans GB", "Microsoft YaHei", Trebuchet, "Trebuchet MS", Tahoma, "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
 	color: #ddd;
 	background-color: #333;
-  	background-image: url(../files/header-background.png);
+	background-image: url(../files/header-background.png);
 }
 
 a {
@@ -82,9 +82,8 @@ a:hover {
 }
 
 hr {
-	margin: .7em 0;
-/*	border-top: 1px dashed #d0d0d0;
-	border-bottom: 1px dashed #f9f9f9*/
+	margin: .7em 0;/*	border-top: 1px dashed #d0d0d0;
+		border-bottom: 1px dashed #f9f9f9*/
 }
 
 p {
@@ -117,11 +116,9 @@ pre code {
 }
 
 blockquote {
-
 }
 
 blockquote {
-
 }
 
 blockquote {
@@ -133,7 +130,7 @@ blockquote {
 	background-color: #2b2b2b;
 	border-radius: 5px;
 	word-wrap: break-word;
-	-webkit-border-radius:5px;
+	-webkit-border-radius: 5px;
 }
 
 #container {
@@ -226,23 +223,23 @@ nav a {
 }
 
 nav a:hover {
-/*	background-color: #fc0;*/
+
+	/*	background-color: #fc0;*/
 	text-decoration: none;
 	color: #f90;
 	-webkit-transition: color .2s linear
 }
 
 .post {
-  margin: 10px auto;
-  padding: 20px 20px 10px;
-  background-color: #444;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-  border-radius: 10px;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-  -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-
+	margin: 10px auto;
+	padding: 20px 20px 10px;
+	background-color: #444;
+	box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
@@ -374,9 +371,11 @@ iframe {
 #go-top {
 	visibility: hidden;
 }
+
 #go-top i {
 	color: #777
 }
+
 .slideUp {
 	z-index: 5000;
 	position: fixed;
@@ -384,14 +383,14 @@ iframe {
 	bottom: 1%;
 	font-size: 36px;
 	opacity: 0.7
-	animation-name: hatch;
-  	-webkit-animation-name: hatch;
+	animation-name:hatch;
+	-webkit-animation-name: hatch;
 	animation-duration: 2s;
-  	-webkit-animation-duration: 2s;
-  	animation-timing-function: ease-in-out;
-  	-webkit-animation-timing-function: ease-in-out;
-  	transform-origin: 50% 100%;
-  	-ms-transform-origin: 50% 100%;
-  	-webkit-transform-origin: 50% 100%;
-  	visibility: visible !important;
+	-webkit-animation-duration: 2s;
+	animation-timing-function: ease-in-out;
+	-webkit-animation-timing-function: ease-in-out;
+	transform-origin: 50% 100%;
+	-ms-transform-origin: 50% 100%;
+	-webkit-transform-origin: 50% 100%;
+	visibility: visible !important;
 }

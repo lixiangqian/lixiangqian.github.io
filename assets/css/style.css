@@ -218,8 +218,11 @@ nav {
 
 nav a {
 	display: block;
-	padding: .7em 1em;
+	padding: .5em .5em;
 	color: #fc0;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+
 }
 
 nav a:hover {

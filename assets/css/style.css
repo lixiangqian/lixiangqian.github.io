@@ -371,15 +371,28 @@ iframe {
 	background: #83BF73
 }
 
-.go-top {
+#go-top {
+	background-color: #fe5652;
+	visibility: hidden;
+}
+#go-top i {
+	color: #777
+}
+.slideUp {
 	z-index: 5000;
 	position: fixed;
 	right: 1%;
 	bottom: 1%;
 	font-size: 36px;
 	opacity: 0.7
-}
-
-.go-top i {
-	color: #777
+	animation-name: hatch;
+  	-webkit-animation-name: hatch;
+	animation-duration: 2s;
+  	-webkit-animation-duration: 2s;
+  	animation-timing-function: ease-in-out;
+  	-webkit-animation-timing-function: ease-in-out;
+  	transform-origin: 50% 100%;
+  	-ms-transform-origin: 50% 100%;
+  	-webkit-transform-origin: 50% 100%;
+  	visibility: visible !important;
 }

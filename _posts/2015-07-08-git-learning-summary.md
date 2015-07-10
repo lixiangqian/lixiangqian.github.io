@@ -10,6 +10,7 @@ categories: 编程
 
 1: “git push”都提示要输入用户名和密码 [<i class="fa fa-external-link"></i>](https://help.github.com/articles/changing-a-remote-s-url/ "Changing a remote's URL")
 >git remote -v //显示当前远端url
+
 >git remote origin -set url git@github.com:username/username.github.io.git
 
 2: "git push"时提示"waring: push.default is unset;"

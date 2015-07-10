@@ -88,8 +88,7 @@ hr {
 
 p {
 	padding: .5em 0;
-/*	text-shadow: 1px 1px 1px #c6c5c5;*/
-	color: #1a4556
+	color: #ddd;
 }
 
 li {
@@ -224,11 +223,11 @@ nav {
 nav a {
 	display: block;
 	padding: .7em 1em;
-	color: #000000
+	color: #f90;
 }
 
 nav a:hover {
-	background-color: #ff0000;
+	background-color: #fc0;
 	text-decoration: none;
 	color: #f9f9f9;
 	-webkit-transition: color .2s linear

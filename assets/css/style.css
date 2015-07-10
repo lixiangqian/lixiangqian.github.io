@@ -227,9 +227,9 @@ nav a {
 }
 
 nav a:hover {
-	background-color: #fc0;
+/*	background-color: #fc0;*/
 	text-decoration: none;
-	color: #f9f9f9;
+	color: #fc0;
 	-webkit-transition: color .2s linear
 }
 

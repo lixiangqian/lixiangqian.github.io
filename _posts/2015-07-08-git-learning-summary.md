@@ -24,3 +24,11 @@ categories: 编程
 
 >git status -s
 
+4: To see what you’ve changed but not yet staged
+
+>git diff
+
+5: To see what you’ve changed but not yet staged
+
+>git diff --staged
+

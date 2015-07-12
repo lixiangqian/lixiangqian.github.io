@@ -107,21 +107,7 @@ ol ol {
 	margin-left: 1em
 }
 
-pre code {
-	margin: 1em 0;
-	font-size: 13px;
-	line-height: 1.6;
-	display: block;
-	overflow: auto
-}
-
-blockquote {
-}
-
-blockquote {
-}
-
-blockquote {
+pre code, blockquote {
 	margin: .5em 0em;
 	padding-left: 1em;
 	display: block;
@@ -268,7 +254,7 @@ h4 {
 	font-size: 1em;
 	color: #333
 }
-
+/*
 pre,
 code {
 	font-family: Menlo, "Andale Mono", Consolas, "Courier New", Monaco, monospace;
@@ -277,7 +263,7 @@ code {
 
 code {
 	background-color: #D0D0D0
-}
+}*/
 
 embed,
 object,

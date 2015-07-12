@@ -33,11 +33,9 @@ categories: 编程
 >git diff --staged(or --cached)
 
 6: Git-diff extra usage(will diff per platform)
-
->git difftool --tool-help
-
->
 <pre class="md">
+git difftool --tool-help
+
 'git difftool --tool=<tool>' may be set to one of the following:
                 vimdiff
                 vimdiff2

@@ -392,7 +392,7 @@ iframe {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: rgb(255, 204, 0);
+  background-color: #333;
   border-radius: 0;
   border-radius: 2px;
   -webkit-border-radius: 2px;

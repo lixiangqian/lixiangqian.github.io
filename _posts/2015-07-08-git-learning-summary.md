@@ -28,7 +28,7 @@ categories: 编程
 
 >git diff
 
-5: To see what you’ve changed but not yet staged
+5: Compares your staged changes to your last commit
 
 >git diff --staged
 

@@ -391,7 +391,7 @@ iframe {
 }
 
 ::-webkit-scrollbar-thumb {
-	background-color: rgb(196, 196, 196);
+	background-color: rgb(51, 51, 51);
 	border-radius: 0;
 }
 

@@ -33,43 +33,5 @@ categories: 编程
 >git diff --staged(or --cached)
 
 6: Git-diff extra usage(will diff per platform)
-<pre class="md">
-git difftool --tool-help
 
-'git difftool --tool=<tool>' may be set to one of the following:
-                vimdiff
-                vimdiff2
-The following tools are valid, but not currently available:
-                araxis
-                bc3
-                codecompare
-                deltawalker
-                diffmerge
-                diffuse
-                ecmerge
-                emerge
-                gvimdiff
-                gvimdiff2
-                kdiff3
-                kompare
-                meld
-                opendiff
-                p4merge
-                tkdiff
-                xxdiff
-</pre>
-
-<pre class="html">
-<body onLoad="setInterval(setTimeSpan,1000);">
-    <div id="test">
-      <div id="test" role="test">
-        <header>
-
-            <h1>Comments on Git learning</h1>
-
-        </header>
-       </div>
-	</div>
-</body>
-</pre>
-
+>git difftool --tool-help

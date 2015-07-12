@@ -36,11 +36,11 @@ categories: 编程
 
 >git difftool --tool-help
 
+>
 <pre class="md">
 'git difftool --tool=<tool>' may be set to one of the following:
                 vimdiff
                 vimdiff2
-
 The following tools are valid, but not currently available:
                 araxis
                 bc3

@@ -1,5 +1,5 @@
 ---
-title: Comments on learning Git
+title: Comments on Git learning
 layout: post
 tag:
     - Git

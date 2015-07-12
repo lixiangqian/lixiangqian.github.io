@@ -30,5 +30,5 @@ categories: 编程
 
 5: Compares your staged changes to your last commit
 
->git diff --staged
+>git diff --staged(or --cached)
 

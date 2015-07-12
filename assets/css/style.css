@@ -393,21 +393,12 @@ iframe {
 ::-webkit-scrollbar-thumb {
   background-color: transparent;
   border-radius: 0;
-  animation: fade in;
-  animation: pulse 5s infinite;
   border-radius: 2px;
   -webkit-border-radius: 2px;
 }
-@keyframes -webkit-scrollbar-thumb {
-  0% {
-    background-color: #001F3F;
-  }
-  100% {
-    background-color: #FF4136;
-  }
-}
+
 ::-webkit-scrollbar-thumb:hover {
-	background-color: rgb(196, 196, 196);
+	background-color: rgb(43, 43, 43);
 }
 
 ::-webkit-scrollbar-track {

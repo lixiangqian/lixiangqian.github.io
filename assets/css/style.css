@@ -398,7 +398,7 @@ iframe {
   border-radius: 2px;
   -webkit-border-radius: 2px;
 }
-@keyframes ::-webkit-scrollbar-thumb {
+@keyframes -webkit-scrollbar-thumb {
   0% {
     background-color: #001F3F;
   }

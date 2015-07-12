@@ -107,7 +107,7 @@ ol ol {
 	margin-left: 1em
 }
 
-blockquote {
+pre, code, blockquote {
 	margin: .5em 0em;
 	padding-left: 1em;
 	display: block;
@@ -118,18 +118,6 @@ blockquote {
 	word-wrap: break-word;
 	-webkit-border-radius: 5px;
 }
-pre code {
-	margin: .5em 0em;
-	padding-left: 1em;
-	display: block;
-	text-align: inherit;
-	color: #FFF;
-	background-color: #2b2b2b;
-	border-radius: 5px;
-	word-wrap: break-word;
-	-webkit-border-radius: 5px;
-}
-
 
 #container {
 	width: 800px;

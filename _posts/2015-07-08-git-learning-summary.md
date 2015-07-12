@@ -20,3 +20,7 @@ categories: 编程
 
 >git config --global push.default.simple//未指定情况下推送当前分支
 
+3：Git also has a short status flag to see your changes in a more compact way
+
+>git status -s
+

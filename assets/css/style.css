@@ -104,7 +104,7 @@ body {
 	border-top: 5px solid #fc0;
 	margin-left: auto;
 	margin-right: auto;
-	font-family: "Galdeano", "TitilliumText22LRegular", "Hiragino Sans GB", "Microsoft YaHei", Trebuchet, "Trebuchet MS", Tahoma, "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+	font-family: "Galdeano", "TitilliumText22LRegular", "Hiragino Sans GB","\5FAE\8F6F\96C5\9ED1", "微软雅黑","Microsoft YaHei", Trebuchet, "Trebuchet MS", Tahoma, "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
 	color: #ddd;
 	background-color: #333;
 	background-image: url(../files/header-background.png);

@@ -1,10 +1,4 @@
-/*========================================================
-
-	BEGIN Reset
-
-========================================================*/
-
-.clearfix:after {
+/*.clearfix:after {
     content: "";
     display: block;
     clear: both;
@@ -18,7 +12,7 @@
     height: 1%;
 }
 
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
 	margin: 0;
     padding: 0;
     border: 0;
@@ -28,6 +22,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     background: transparent;
 }
 
+body { line-height: 1; }
 ol, ul, li { list-style: none; }
 blockquote, q { quotes: none; }
 blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
@@ -35,7 +30,7 @@ blockquote:before, blockquote:after, q:before, q:after { content: ''; content: n
 ins, a { text-decoration: none; }
 a, input[type=submit], button[type=submit] { cursor: pointer; }
 del { text-decoration: line-through; }
-table { border-collapse: collapse; border-spacing: 0; }
+table { border-collapse: collapse; border-spacing: 0; }*/
 
 
 @import url(http://fonts.useso.com/css?family=Galdeano);
@@ -59,7 +54,9 @@ table { border-collapse: collapse; border-spacing: 0; }
 	-moz-osx-font-smoothing: grayscale
 }
 
-/*html,
+/*BEIGN RESET*/
+
+html,
 body,
 div,
 p,
@@ -97,7 +94,9 @@ ol,
 ul,
 li {
 	list-style-type: none
-}*/
+}
+
+/*BEGIN MAIN*/
 
 body {
 	font-size: 14px;
